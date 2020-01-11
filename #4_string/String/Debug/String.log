@@ -1,0 +1,3 @@
+﻿  string_matching.cpp
+d:\김다예\숙명여대\3학년 1학기\알고리즘 입문\string\string\string\string_matching.cpp(68): warning C4244: '초기화 중': 'std::streamoff'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  String.vcxproj -> D:\김다예\숙명여대\3학년 1학기\알고리즘 입문\string\String\Debug\String.exe
